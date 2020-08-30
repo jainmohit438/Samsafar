@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476205080824",
+    "firebase_url": "https://samsafar-68ea1.firebaseio.com",
+    "project_id": "samsafar-68ea1",
+    "storage_bucket": "samsafar-68ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476205080824:android:b4f6e081748de0ce74db0d",
+        "android_client_info": {
+          "package_name": "com.example.samsafar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476205080824-v8ga6u3v0qcir00gst1qi7v89bti45eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samsafar",
+            "certificate_hash": "210d73734714c05c2e5708a589bb6e861d15f51c"
+          }
+        },
+        {
+          "client_id": "476205080824-bu5vl30paevcufmsoujptfp2tu3g8l5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86ZJIp6HzyJ2cIcU7K1d6iynwLgXGpsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476205080824-bu5vl30paevcufmsoujptfp2tu3g8l5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
